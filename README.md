@@ -3,6 +3,8 @@
 This project implements a simple number guessing game using an ESP32, a 4x4 matrix keypad, and a 16x2 I2C LCD. Players input their guesses through the keypad, and the system provides feedback on whether the guessed number is higher or lower than the secret number.
 
 ## Features
+https://github.com/user-attachments/assets/8b2819c1-da95-4d95-84f4-7ead171bb430
+
 - **Number Guessing Game**: A randomly generated number between 1 and 9 must be guessed by the player.
 - **Keypad Input**: The player inputs their guesses using a 4x4 matrix keypad.
 - **LCD Feedback**: The game displays hints (Higher/Lower) and messages on the 16x2 I2C LCD.
